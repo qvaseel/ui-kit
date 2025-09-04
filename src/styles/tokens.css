@@ -1,0 +1,22 @@
+:root {
+  --color-primary: #0B6E99;
+  --color-on-primary: #ffffff;
+  --color-bg: #ffffff;
+  --radius-md: 8px;
+  --spacing-sm: 6px;
+  --ring: 2px solid #2563eb;
+}
+
+[data-theme="crm"] {
+  --color-primary: #0B6E99;
+  --color-primary-hover: #1d4ed8;
+  --color-on-primary: #ffffff;
+  --radius-md: 6px;
+}
+
+[data-theme="lk"] {
+  --color-primary: #388E3C;
+  --radius-md: 12px;
+  --color-primary-hover: #059669;
+  --color-on-primary: #ffffff;
+}
